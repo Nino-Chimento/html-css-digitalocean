@@ -10,8 +10,11 @@ body {
 .white{
   color: white;
 }
-.padding_bottom_10px {
-  padding-bottom: 10px;
+.background_white{
+  background-color: white;
+}
+.margin_bottom_5px {
+  margin-bottom: 5px;
 }
 .display_none {
   display: none;
@@ -62,6 +65,7 @@ body {
   background-size: cover;
   background-position: center;
   width: 100%;
+  height: 900px;
 }
 
 .banner {
@@ -69,5 +73,20 @@ body {
 }
 h1{
   font-size: 3.5em;
+}
+.background_white h2 {
+  font-size: 2.5em;
+}
+.background_white h3 {
+  color: lightblue;
+  font-size: 2em;
+}
+.account{
+  height: 50px;
+  width: 100%;
+  background-color: #0069FF;
+  color: white;
+  border-radius: 4px;
+  margin-top: 5px;
 }
 /* /banner */

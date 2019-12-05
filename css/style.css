@@ -7,7 +7,15 @@ body {
   font-family: 'Lora', serif;
   min-width: 222px;
 }
-
+.white{
+  color: white;
+}
+.padding_bottom_10px {
+  padding-bottom: 10px;
+}
+.display_none {
+  display: none;
+}
 /* menu */
 .logo_menu {
   width: 130px;
@@ -47,11 +55,19 @@ body {
   }
 }
 /* /menu */
+/* banner */
 .header_bottom {
-  background-color: blue;
+  background-image: url(../img/bg-home-1-d54581d7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   width: 100%;
-  height: 500px;
 }
+
 .banner {
   margin-top:   40px;
 }
+h1{
+  font-size: 3.5em;
+}
+/* /banner */

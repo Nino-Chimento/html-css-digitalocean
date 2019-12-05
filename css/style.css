@@ -1,15 +1,52 @@
-[class*="col"]{
+/* [class*="col"]{
   background-color: red;
   height: 100px;
-}
+} */
 
 body {
   font-family: 'Lora', serif;
+  min-width: 222px;
 }
+
+/* menu */
+.logo_menu {
+  width: 130px;
+  vertical-align: middle;
+}
+.fa-bars {
+  font-size: 2em;
+
+  vertical-align: middle;
+}
+.no_list {
+  list-style: none;
+}
+.no_list li {
+  display: inline-block;
+  padding: 3px;
+}
+.no_list a{
+  color: #0069FF;
+}
+.no_list a:hover {
+  color: lightblue;
+}
+
 .header_top {
-  background-color: yellow;
   height: 90px;
+  line-height: 90px;
 }
+@media screen and (max-width: 992px) {
+  .display_no_lg {
+    display: none;
+  }
+}
+@media screen and (min-width: 992px) {
+  .hamburgher {
+    display: none;
+  }
+}
+/* /menu */
 .header_bottom {
   background-color: blue;
   width: 100%;

@@ -138,14 +138,20 @@ text-align: center;
 }
 /* /loghi */
 /* deploy */
-.deploy h2,p {
+.deploy h2 {
   text-align: center;
 }
 .deploy ul{
   list-style: none;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 .deploy li {
-  padding: 5px;
+  padding: 5px 0;
   font-size: 1.2em;
+  margin-right: 0
+}
+.deploy h4 {
+  color: navy;
+  padding: 10px 0;
 }

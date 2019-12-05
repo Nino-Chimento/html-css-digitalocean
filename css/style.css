@@ -122,8 +122,11 @@ h1{
   text-align: center;
 }
 .loghi img {
-  height: 80px;
-}
-@media screen and (min-width) {
+  height:60px;
 
+}
+@media screen and (min-width:992px) {
+.loghi_center {
+text-align: center;
+}
 }

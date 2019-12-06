@@ -154,13 +154,28 @@ h1{
   text-align: center;
 }
 .loghi img {
-  height:60px;
+width: 100%;
+}
+.loghi ul {
+  list-style: none;
+  padding-top: 60px;
+  }
+.loghi li {
+  display: inline-block;
+  width:15%;
+  padding-right:15px;
+}
+@media screen and (max-width:992px) {
+.loghi li {
+  width: 48%;
+}
 }
 
-@media screen and (min-width:992px) {
+
+/* @media screen and (min-width:992px) {
 .loghi_center {
 text-align: center;
-}
+} */
 }
 /* /loghi */
 /* deploy */

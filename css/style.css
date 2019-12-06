@@ -126,7 +126,7 @@ h1{
   margin-top: 5px;
   border: 1 px solid black;
 }
-/* sistemare  */
+
 .logo_google {
   width:20px;
   position: absolute;
@@ -208,6 +208,15 @@ text-align: center;
 .designed img {
   width: 60%;
   margin-bottom: 40px;
+}
+.fa-angle-left {
+  font-size: 3.5em;
+  margin-right: 8%;
+  color: lightgrey;
+}
+.fa-angle-right{
+  font-size: 3.5em;
+  margin-left:8%;
 }
 .fa-circle {
   font-size: 0.5em;

@@ -340,3 +340,12 @@ footer i {
   padding: 6px;
   font-size: 1.3em;
 }
+footer h4 {
+  color:white;
+  font-weight: bold;
+}
+footer a {
+  display: block;
+  text-decoration: none;
+  color: #9498B3;
+}

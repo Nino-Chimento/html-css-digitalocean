@@ -310,7 +310,7 @@ text-align: center;
   padding-top: 40px;
 }
 .btn_create {
-  background-color: #CCDAFE;
+  background-color: #FFFF;
   color: #0069FE;
   height: 60px;
   width: 250px;
@@ -318,6 +318,13 @@ text-align: center;
   line-height: 50px;
   margin-bottom: 40px;
 }
+.btn_create:active,
+.btn_create:hover,
+.btn_create:focus {
+  background-color: #CCDAFE;
+  color: #0069FE;
+}
+
 /* /rocker_box */
 /* /main */
 /* footer */

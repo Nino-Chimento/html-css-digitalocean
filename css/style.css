@@ -19,6 +19,9 @@ body {
 .margin_top_40px {
   margin-top: 40px;
 }
+.margin_right_20px{
+  margin-right: 20px;
+}
 .display_none {
   display: none;
 }
@@ -185,6 +188,10 @@ text-align: center;
 
 /* /deploy */
 /* feature */
+.feature {
+  padding-bottom: 150px;
+  padding-top: 100px;
+}
 .feature h2
 {
   text-align: center;
@@ -213,3 +220,32 @@ text-align: center;
   margin-top: 40px;
 }
 /* /feature */
+/* world */
+.world {
+  background-color: navy;
+  color: white;
+}
+.world h2 {
+  color: white;
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: bold;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 60%;
+  margin: auto;
+}
+.world p {
+  width: 100%;
+}
+.border_bottom {
+  border-bottom: 1px solid white;
+}
+@media screen and (max-width:385px) {
+ .world p{
+  font-size: 0.6em;
+}
+.no_margin {
+  margin-right: 0;
+}
+}

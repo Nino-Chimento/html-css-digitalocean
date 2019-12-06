@@ -318,3 +318,18 @@ text-align: center;
   line-height: 50px;
   margin-bottom: 40px;
 }
+/* /rocker_box */
+/* /main */
+/* footer */
+footer {
+  background-color: #010E28;
+  width: 100%;
+  color:#9498B3;
+}
+footer img {
+  padding-bottom: 20px;
+}
+footer i {
+  padding: 6px;
+  font-size: 1.3em;
+}

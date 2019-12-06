@@ -326,7 +326,13 @@ text-align: center;
   font-size: 3.5em;
   color:lightgrey;
   position: absolute;
-  margin-left: 400px;
+  margin-left: 35%;
+}
+.freccia_sx_foundeator{
+  font-size: 3.5em;
+  color:lightgrey;
+  position: absolute;
+  margin-right: 0;
 }
 .foundetor p {
   font-size: 1.3em;

@@ -98,10 +98,12 @@ h1{
 }
 .background_white h2 {
   font-size: 2.5em;
+  font-weight: bold;
 }
 .background_white h3 {
   color: lightblue;
   font-size: 2em;
+  font-weight: bold;
 }
 .account{
   height: 50px;

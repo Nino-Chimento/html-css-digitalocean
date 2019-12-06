@@ -145,7 +145,7 @@ text-align: center;
   list-style: none;
   margin-top: 20px;
   margin-bottom: 20px;
-  
+
 }
   .border_left {
     border-left: 1px solid black;
@@ -158,4 +158,21 @@ text-align: center;
 .deploy h4 {
   color: navy;
   padding: 10px 0;
+}
+/* /deploy */
+/* designed */
+.designed {
+  background-color: #F3F5F9;
+}
+.designed h2 {
+  font-weight: bold;
+  font-size: 3em;
+}
+.designed p {
+  font-size: 1.5em;
+  margin-bottom: 80px;
+}
+.designed img {
+  width: 60%;
+  margin-bottom: 40px;
 }

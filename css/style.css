@@ -261,3 +261,38 @@ text-align: center;
     padding: 0;
   }
 }
+/* /tabbelle */
+/* rocker */
+.rocker {
+  background-color: #F3F5F9;
+}
+.rocker h2 {
+  font-size: 3em;
+  font-weight: bold;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.rocker_box {
+  background-color: white;
+  margin:auto;
+  width: 60%;
+}
+.rocker_box img {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.rocker_box p {
+  font-size: 1.5em;
+  color: rgba(3,27,78,.7);
+  padding-bottom: 20px;
+}
+.foundetor p {
+  font-size: 1.3em;
+  line-height: 10px;
+  font-weight: bold;
+  padding: 0;
+}
+.rocker_box a {
+  text-decoration: none;
+  font-weight: bold;
+}

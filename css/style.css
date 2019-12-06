@@ -28,6 +28,7 @@ body {
 .padding_top_40px {
   padding-top: 40px;
 }
+
 .display_none {
   display: none;
 }
@@ -254,4 +255,9 @@ text-align: center;
 .no_margin {
   margin-right: 0;
 }
+}
+@media screen and (min-width: 992px) {
+  .padding_0 {
+    padding: 0;
+  }
 }

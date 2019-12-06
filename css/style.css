@@ -59,6 +59,12 @@ body {
 .header_top {
   height: 90px;
   line-height: 90px;
+  background-color: #FFFFFF;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 3;
 }
 @media screen and (max-width: 992px) {
   .display_no_lg {
@@ -78,6 +84,7 @@ body {
   background-size: cover;
   background-position: center;
   width: 100%;
+  margin-top: 90px;
 }
 
 
@@ -87,6 +94,7 @@ body {
 }
 h1{
   font-size: 3.5em;
+  font-weight: bold;
 }
 .background_white h2 {
   font-size: 2.5em;

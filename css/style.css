@@ -188,6 +188,16 @@ text-align: center;
   text-align: center;
   font-weight: bold;
   color: red;
+  font-weight: bold;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.deploy p {
+  font-weight: bold;
+  color: #4E5F83;
+  width:85%;
+  margin: auto;
+  padding-bottom: 40px;
 }
 .deploy ul{
   list-style: none;

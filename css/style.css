@@ -326,7 +326,7 @@ text-align: center;
   padding-bottom: 60px;
 }
 .rocker_box {
-  position: relative;
+
   background-color: white;
   margin:auto;
   width: 60%;
@@ -340,31 +340,15 @@ text-align: center;
   color: rgba(3,27,78,.7);
   padding-bottom: 20px;
 }
-.foundetor {
-  position: relative;
-}
-.freccia_ds_foundeator {
-  font-size: 3.5em;
-  color:lightgrey;
-  position: absolute;
-  margin-left: 35%;
-}
-.freccia_sx_foundeator{
-  font-size: 3.5em;
-  color:lightgrey;
-  position: absolute;
-  margin-right: 0;
-}
+
+
 .foundetor p {
   font-size: 1.3em;
   line-height: 10px;
   font-weight: bold;
   padding: 0;
 }
-.freccia_rocker_ds {
-  position: absolute;
 
-}
 .rocker_box a {
   text-decoration: none;
   font-weight: bold;

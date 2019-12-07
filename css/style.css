@@ -431,6 +431,11 @@ footer a {
   border-radius: 6px;
 }
 .fish_mobile{
+position: fixed;
+bottom: 0;
+margin-left: 55%;
+width: 100%;
+z-index: 2;
 
 }
 

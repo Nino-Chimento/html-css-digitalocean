@@ -422,3 +422,22 @@ footer a {
   text-decoration: none;
   color: #9498B3;
 }
+.write_fish {
+  background-color: white;
+  height: 90px;
+  vertical-align: middle;
+  padding-top:33px;
+  border: 1 px solid white;
+  border-radius: 6px;
+}
+.fish_mobile{
+
+}
+
+.fish_mobile img {
+  height: 90px;
+  background-color: lightblue;
+  padding-top: 15px;
+  border: 1 px solid lightblue;
+  border-radius: 6px;
+}

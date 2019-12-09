@@ -456,3 +456,20 @@ z-index: 2;
   border: 1 px solid lightblue;
   border-radius: 6px;
 }
+.fish {
+  position: relative;
+}
+.number {
+  position: absolute;
+  top:-5px;
+  left: 70px;
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+.number p {
+  padding-top: 3px;
+}
